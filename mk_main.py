@@ -1,5 +1,5 @@
 import random
-from blackjack_helpers import Player, Dealer
+from mk_blackjack_helpers import Player, Dealer
 
 def print_headers(text, width=30):
 	print("\n")
